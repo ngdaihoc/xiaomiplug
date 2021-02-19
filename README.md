@@ -11,7 +11,7 @@ Credits: Thanks to [Rytilahti](https://github.com/rytilahti/python-miio) for all
 | Name                        | Model                  | Model no. |
 | --------------------------- | ---------------------- | --------- |
 | Xiaomi Smart WiFi Socket    | chuangmi.plug.m1       | |
-| Xiaomi Smart WiFi Socket    | chuangmi.plug.m3       | ZNCZ02CM |
+| Xiaomi Smart WiFi Socket    | chuangmi.plug.m3       | ZNCZ04CM |
 | Xiaomi Smart WiFi Socket    | chuangmi.plug.v2       | |
 | Xiaomi Smart WiFi Socket    | chuangmi.plug.hmi205   | |
 | Xiaomi Smart WiFi Socket    | chuangmi.plug.hmi206   | |
