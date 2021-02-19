@@ -11,7 +11,7 @@ Credits: Thanks to [Rytilahti](https://github.com/rytilahti/python-miio) for all
 | Name                        | Model                  | Model no. |
 | --------------------------- | ---------------------- | --------- |
 | Xiaomi Smart WiFi Socket    | chuangmi.plug.m1       | |
-| Xiaomi Smart WiFi Socket    | chuangmi.plug.m3       | |
+| Xiaomi Smart WiFi Socket    | chuangmi.plug.m3       | ZNCZ02CM |
 | Xiaomi Smart WiFi Socket    | chuangmi.plug.v2       | |
 | Xiaomi Smart WiFi Socket    | chuangmi.plug.hmi205   | |
 | Xiaomi Smart WiFi Socket    | chuangmi.plug.hmi206   | |
@@ -20,7 +20,7 @@ Credits: Thanks to [Rytilahti](https://github.com/rytilahti/python-miio) for all
 | Xiaomi Chuangmi Plug HMI208 | chuangmi.plug.hmi208   | |
 | Xiaomi Smart Power Strip    | qmi.powerstrip.v1      | |
 | Xiaomi Smart Power Strip    | zimi.powerstrip.v2     | |
-| Xiaomi Air Conditioning Companion V3 | lumi.acpartner.v3  | |
+| Xiaomi Air Conditioning Companion V3 | lumi.acpartner.v3  | KTBL11LM |
 
 ## Features
 
